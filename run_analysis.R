@@ -1,3 +1,5 @@
+
+#After downloading and unzipping the files, Reading the tables can be done as explained below:
 # Reading the trainings tables is shown below:
 x_train <- read.table("C:/Users/Sriharsha/Desktop/courseera -2/UCI HAR Dataset/train/X_train.txt")
 y_train <- read.table("C:/Users/Sriharsha/Desktop/courseera -2/UCI HAR Dataset/train/y_train.txt")
