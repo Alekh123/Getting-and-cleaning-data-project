@@ -1,5 +1,5 @@
 # Getting-and-cleaning-data-project
-Creating a tidy dataset from given raw data of Human Activity Recognition Using Smartphones datasets. The R script, run_analysis.R, does the following:
+Here we need to Create a tidy dataset from given raw data of Human Activity Recognition Using Smartphones datasets. The R script, run_analysis.R, does the following:
 
 Download the dataset if it does not already exist in the working directory
 Load the activity and feature info
